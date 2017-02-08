@@ -17,6 +17,7 @@ import static android.R.attr.prompt;
 
 /**
  * This app displays an order form to order coffee.
+ * More info
  */
 public class MainActivity extends AppCompatActivity {
 
